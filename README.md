@@ -8,7 +8,7 @@
 
 ### **Limited**
 * Because the model is only trained in the eminst dataset. Therefore, the data is not enough to be able to identify all other characters on the outside.
-* Image processing may cause the image to not retain all details such as: size, number of channels,... . This reduces performance
+* Image processing may cause the image to not retain all details such as: size, number of channels,... . This reduces performance.
 
 ### **Development**
 * Increase the amount of data and the data needs to be more diverse so the model can accurately recognize more characters.
