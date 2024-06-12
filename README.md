@@ -4,3 +4,4 @@
 * Prediction accuracy is about 92%
 
 ### **UI**
+![Image]https://github.com/ntnhan-ds/digits_letters_recognition/blob/main/ui_image.png
